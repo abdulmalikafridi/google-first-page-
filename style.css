@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+.container{   
+   text-align:center;
+}
+.two-div{
+    margin:0 auto;
+    width:70%;
+    height:70vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size:90px;
+    font-weight:normal;
+    margin-bottom:30px;
+    letter-spacing:-13px;
+}
+#one{
+    color:rgb(104, 104, 243);;
+}
+#two{
+    color:rgb(219, 3, 3);
+  
+}
+#three{
+    color:rgb(247, 182, 60);
+}
+#four{
+    color:rgb(134, 134, 250);
+}
+#five{
+    color:rgb(25, 166, 25);
+}
+input{
+    width:520px;
+    padding:14px 18px;
+    border-radius:30px;
+    border:1px solid rgb(190, 190, 190);
+    box-shadow:2px 1px 2px 0px  rgb(230, 230, 230);
+}
